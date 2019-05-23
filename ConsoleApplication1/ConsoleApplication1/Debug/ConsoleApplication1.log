@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\hp301\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(144): warning C4101: “i”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> c:\users\hp301\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> c:\users\hp301\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
